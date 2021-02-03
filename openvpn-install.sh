@@ -1,8 +1,8 @@
 #!/bin/bash
 #
-# https://github.com/Nyr/openvpn-install
+# https://github.com/malrazer/vpn
 #
-# Copyright (c) 2013 Nyr. Released under the MIT License.
+# Copyright (c) 2013 malrazer. Released under the MIT License.
 
 
 # Detect Debian users running the script with "sh" instead of bash
